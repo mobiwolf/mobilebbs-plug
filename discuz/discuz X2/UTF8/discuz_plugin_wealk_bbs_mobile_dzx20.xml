@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X2]]></item>
+	<item id="Time"><![CDATA[2011-07-12 17:43]]></item>
+	<item id="From"><![CDATA[Discuz! Board ()]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[0]]></item>
+			<item id="adminid"><![CDATA[0]]></item>
+			<item id="name"><![CDATA[手机论坛]]></item>
+			<item id="identifier"><![CDATA[wealk_bbs_mobile_dzx20]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[wealk_bbs_mobile_dzx20/]]></item>
+			<item id="copyright"><![CDATA[wealk]]></item>
+			<item id="modules"><![CDATA[b:0;]]></item>
+			<item id="version"><![CDATA[1.0]]></item>
+		</item>
+		<item id="version"><![CDATA[X2]]></item>
+	</item>
+</root>
